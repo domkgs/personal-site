@@ -34,7 +34,7 @@
       "declaration": true,
       "assignment": true,
       "return": true
-    }],
+    }]
   },
   "plugins": [
     "react"
